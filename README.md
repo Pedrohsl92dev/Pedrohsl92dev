@@ -9,18 +9,6 @@ Olá! Meu nome é Pedro Henrique, tenho 30 anos e sou formado em Análise e Dese
 
 Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades em desenvolvimento de software.
 
-## Projetos
-
-Aqui estão alguns dos projetos em que trabalhei recentemente:
-
-### Projeto 1
-
-Descrição breve do projeto 1.
-
-### Projeto 2
-
-Descrição breve do projeto 2.
-
 ## Habilidades
 
 - Java
@@ -28,13 +16,14 @@ Descrição breve do projeto 2.
 - Angular
 - DevOps
 - Git
+- Microsserviços
 
 ## Contato
 
 Você pode me encontrar em:
 
-- Email: [pedrohsl92@gmail.com)
-- LinkedIn: [[seu perfil no LinkedIn](https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/pedrohenriquelourenco/))
+- Email: pedrohsl92@gmail.com
+- LinkedIn: https://www.linkedin.com/in/pedrohenriquelourenco/
 
 ## Ícones
 
