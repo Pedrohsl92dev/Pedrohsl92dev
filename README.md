@@ -14,7 +14,6 @@ Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades 
 - Java
 - MySQL
 - Angular
-- DevOps
 - Git
 - Microsserviços
 
