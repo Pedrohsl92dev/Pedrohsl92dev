@@ -34,8 +34,6 @@ Aqui estão alguns ícones que representam minhas habilidades:
 
 :atom_symbol: Angular
 
-:toolbox: DevOps
-
 :octocat: Git
 
 Sinta-se à vontade para entrar em contato comigo para colaborações ou qualquer outra informação adicional. Estou aberto a novas oportunidades e desafios emocionantes!
